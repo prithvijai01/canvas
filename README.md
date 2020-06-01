@@ -1,1 +1,2 @@
-# canvas
+# synchronousBallMovement
+Ball moving synchronously
